@@ -438,6 +438,11 @@
   min-height: 500px;
   background-position: 34.4% 50%;
 }
+.u-section-3 .u-image-5{
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/matthieu-petiard-Pf6e3o0GL4M-unsplash.jpg");
+  min-height: 500px;
+  background-position: 50% 18%;
+}
 
 .u-section-3 .u-text-5 {
   font-size: 3rem;
